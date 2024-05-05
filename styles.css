@@ -1,0 +1,43 @@
+#searchBtn:hover{
+cursor: pointer;
+}
+#navbar{
+    width: 80%;
+    
+}
+header{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.card-title{
+    text-decoration: none;
+    color: black;
+}
+body{
+    background-color: black;
+    color: aliceblue;
+}
+body header{
+    background-color: aliceblue;
+    color: black;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+#appNameText:hover{
+    /* border: 1px solid black; */
+    color: rgb(82, 81, 81);   
+   
+}
+button{
+    border: none;
+    background: none;
+}
+#aTag:hover{
+    cursor: pointer;
+}
+#fav-btn:hover{
+    color:rgb(82, 81, 81);
+}
